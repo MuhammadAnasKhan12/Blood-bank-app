@@ -1,0 +1,22 @@
+.donor-card {
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 10px solid #dc3545;
+    border-radius: 10px;
+  }
+  
+  .donor-title {
+    background-color: #dc3545; 
+    color: white;
+    padding: 10px;
+    margin: 0;
+ 
+  }
+  
+  .donor-info {
+    background-color: #f8f9fa; 
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  
